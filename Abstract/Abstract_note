@@ -1,0 +1,13 @@
+							Abstraction
+👀 Abstraction Is A  Process Of Hiding The Implementation From The User.
+👀 Only The functionality Will Be Provided To The User.
+👀 In Other Words, The User Will Have 
+👀 The Information On What The Object Does Instead Of How It Dose It.
+👀 In Java, abstraction is accomplished using Abstract classes and interfaces
+👀 it can only be extended 
+👀 It's only meant to be a parent of another class 
+👀 cannot be instantiated -  means we can't create an object to Abstract class
+******************************************************************************
+					keyword 		
+Abstract
+implimation 
